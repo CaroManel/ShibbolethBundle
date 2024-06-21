@@ -1,6 +1,6 @@
 {
-  "name" : "unicesil/shibboleth-bundle",
-  "description" : "Shibboleth bundle authentication for Symfony 5+",
+  "name" : "unicesil-custom/shibboleth-bundle",
+  "description" : "Shibboleth bundle authentication for Symfony 6+",
   "type" : "symfony-bundle",
   "authors" : [{
     "name" : "Frédéric Casazza",
